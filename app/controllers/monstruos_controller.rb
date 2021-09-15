@@ -1,0 +1,2 @@
+class MonstruosController < ApplicationController
+end
